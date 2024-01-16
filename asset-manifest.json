@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hexpage/static/css/main.2a68f28d.css",
-    "main.js": "/hexpage/static/js/main.6f0d7b9d.js",
+    "main.js": "/hexpage/static/js/main.31faa2b7.js",
     "static/js/787.c4964dbe.chunk.js": "/hexpage/static/js/787.c4964dbe.chunk.js",
     "index.html": "/hexpage/index.html",
     "main.2a68f28d.css.map": "/hexpage/static/css/main.2a68f28d.css.map",
-    "main.6f0d7b9d.js.map": "/hexpage/static/js/main.6f0d7b9d.js.map",
+    "main.31faa2b7.js.map": "/hexpage/static/js/main.31faa2b7.js.map",
     "787.c4964dbe.chunk.js.map": "/hexpage/static/js/787.c4964dbe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a68f28d.css",
-    "static/js/main.6f0d7b9d.js"
+    "static/js/main.31faa2b7.js"
   ]
 }
